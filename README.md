@@ -30,6 +30,7 @@ def main():
     webbrowser.open(MAPFILE)
 
 ```
+![map-html](https://user-images.githubusercontent.com/77138234/106897172-ebaf6480-6735-11eb-9acf-94e4c85d929d.png)
 
 ## License
 
