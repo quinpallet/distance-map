@@ -5,10 +5,18 @@ Display the direct distance between the two locations into the map.
 
 - [folium](https://github.com/python-visualization/folium)
 - [geopy](https://github.com/geopy/geopy)
+- [reverse-geocode](https://github.com/quinpallet/reverse-geocode) *see blow
 
 ## Prerequisites
 
 - Python >= 3.7
+
+## Setup
+
+```sh
+$ pip install git+https://github.com/quinpallet/reverse-geocode.git
+$ 
+```
 
 ## Usage
 
