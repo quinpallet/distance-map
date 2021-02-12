@@ -38,7 +38,7 @@ def main():
     webbrowser.open(MAPFILE)
 
 ```
-![map html](https://user-images.githubusercontent.com/77138234/107734288-6254ef00-6d40-11eb-80fe-4724fe2b1eff.png)
+![map html](https://user-images.githubusercontent.com/77138234/107734449-ce375780-6d40-11eb-9e8f-a0583834a1be.png)
 
 ## License
 
